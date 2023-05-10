@@ -1,0 +1,13 @@
+{
+  "peerDependencies": {
+    "miller-rabin": "^1.1.1"
+  },
+  "dependencies": {
+    "bignumber.js": "^9.1.1",
+    "qs": "^6.11.1",
+    "web3": "^1.9.0"
+  },
+  "devDependencies": {
+    "browserify": "^17.0.0"
+  }
+}
